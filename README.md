@@ -1,9 +1,11 @@
 # Testing Today's Web Applications: Tools You Can Use Workshop
 
+Workshop for STARWEST 2019 in Anaheim, CA. Slides and Playbook will be be found in the list of files. 
 
 
 
-This workshop was originally created by Alan Page. See his original [slides](http://bit.ly/alantools) and [Playbook](http://bit.ly/toolsdocs). 
+
+Original workshop was originally created by Alan Page. See his original [slides](http://bit.ly/alantools) and [Playbook](http://bit.ly/toolsdocs). 
 
 His work is Creative Commons Licensed as is this work.
 
